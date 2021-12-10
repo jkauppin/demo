@@ -1,7 +1,7 @@
 {
   "products": [
     { "id": 1, "name": "Daily account", "balance": -140.40 },
-    { "id": 2, "name": "Extra account" "balance": 40.55},
-    { "id": 3, "name": "Holiday savings" "balance": 4330.40}
+    { "id": 2, "name": "Extra account", "balance": 40.55},
+    { "id": 3, "name": "Holiday savings", "balance": 4330.40}
   ]
 }
